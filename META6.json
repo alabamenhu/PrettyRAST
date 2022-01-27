@@ -1,0 +1,19 @@
+{
+  "name": "Pretty::RAST",
+  "description": "A module for visualizing RakuAST trees as code",
+  "version": "0.1.0",
+  "perl": "6.*",
+  "authors": [
+    "Matthew Stephen Stuckwisch"
+  ],
+  "auth": "git:alabamenhu",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Pretty::RAST": "lib/Pretty/RAST.pm6"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "git://github.com/alabamenhu/PrettyRAST.git"
+}
